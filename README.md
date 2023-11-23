@@ -22,6 +22,8 @@ Essa atividade tem o intuito de produzir um sistema para locação de automóvei
 
 ### Modelo Lógico
 
+![image](https://github.com/MatheusLaiaa/Loca-o/assets/144149403/e635a326-4a12-46a4-8e0b-a88ff880de0a)
+
 
 # NOME - RA - EMAIL
 
