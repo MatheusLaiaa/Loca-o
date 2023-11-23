@@ -23,4 +23,7 @@ Essa atividade tem o intuito de produzir um sistema para locação de automóvei
 ### Modelo Lógico
 
 
+# NOME - RA - EMAIL
+
+Matheus Ferreira de Laia - 236012 - matheuslaia664@gmail.com
 
